@@ -183,7 +183,6 @@ function App() {
                 <img 
                   src="src/assets/profile.jpg" 
                   alt="Siddharth Madhu Rao"
-                  className="w-full h-full rounded-full object-cover shadow-inner"
                 />
               </div>
             </div>
