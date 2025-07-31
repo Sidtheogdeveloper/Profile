@@ -181,7 +181,7 @@ function App() {
             <div className="w-52 h-52 mx-auto rounded-full bg-gradient-to-br from-blue-400 via-purple-500 to-cyan-400 p-1 animate-spin-slow shadow-2xl shadow-blue-500/20">
               <div className="w-full h-full rounded-full bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="src/assets/profile.jpg" 
+                  src="src/assets/profile.png" 
                   alt="Siddharth Madhu Rao"
                 />
               </div>
