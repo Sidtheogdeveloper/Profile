@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Mail, Phone, Linkedin, MapPin, Calendar, ExternalLink, Award, Briefcase, GraduationCap, User, Menu, X, ChevronDown, Code, Lightbulb, Target, Github } from 'lucide-react';
-
+import ProjectsPage from './components/ProjectsPage';
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState(null);
